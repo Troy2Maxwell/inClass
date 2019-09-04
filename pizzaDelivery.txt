@@ -1,3 +1,7 @@
 1. Decide what kind of pizza we want.
-Decide how many pizzas we want.
-Decide how many beers we want.
+2. Decide how many pizzas we want.
+3. Decide how many beers we want.
+4. Call the pizza place
+    a. they answered - go to step 5
+    b. they don't answer - go to step 4 again
+5. Place the order
