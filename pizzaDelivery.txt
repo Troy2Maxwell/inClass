@@ -5,3 +5,7 @@
     a. they answered - go to step 5
     b. they don't answer - go to step 4 again
 5. Place the order
+    a. pay over phone - see step 6
+    b. pay at door - see step 7.
+6. Give credit card information. see step 7
+7. Wait.
